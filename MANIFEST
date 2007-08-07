@@ -1,0 +1,8 @@
+lib/CPAN/Test/Dummy/Perl5/Make/FailLate.pm
+Build.PL
+Die.PL
+Makefile.PL
+MANIFEST
+Changes
+README
+META.yml                                 Module meta-data (added by MakeMaker)
