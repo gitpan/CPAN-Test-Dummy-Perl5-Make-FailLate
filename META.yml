@@ -1,6 +1,6 @@
 ---
 name: CPAN-Test-Dummy-Perl5-Make-FailLate
-version: 1.00
+version: 1.01
 author:
   - 'David A. Golden <dagolden@cpan.org>'
 abstract: CPAN Test Dummy
@@ -10,8 +10,8 @@ resources:
 provides:
   CPAN::Test::Dummy::Perl5::Make::FailLate:
     file: lib/CPAN/Test/Dummy/Perl5/Make/FailLate.pm
-    version: 1.00
-generated_by: Module::Build version 0.2805
+    version: 1.01
+generated_by: Module::Build version 0.2808
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
   version: 1.2
