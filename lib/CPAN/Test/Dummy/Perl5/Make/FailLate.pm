@@ -2,7 +2,7 @@ package CPAN::Test::Dummy::Perl5::Make::FailLate;
 use strict;
 
 use vars qw{$VERSION};
-$VERSION = '1.01';
+$VERSION = '1.02';
 
 1;
 
@@ -16,7 +16,7 @@ CPAN::Test::Dummy::Perl5::Make::FailLate - CPAN Test Dummy
 
 =head1 VERSION
 
-This documentation refers to version 1.01.
+This documentation refers to version 1.02.
 
 =head1 SYNOPSIS
 
